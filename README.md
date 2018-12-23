@@ -1,37 +1,99 @@
-## Welcome to GitHub Pages
+<html>
+	<head>
+		<title>Student's Pofile</title>
+	</head>
+	<body>
+	
+	<h2>Time Table</h2>
 
-You can use the [editor on GitHub](https://github.com/ZainH2SO4/Project-2/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+	<table border="1" cellspacing="0">
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+	<tr>
+	<th>Days</th>
+    	<th> 8:30-9:25 </th> 
+   	<th> 9:30-10:25 </th> 
+	<th> 10:30-11:25 </th> 
+	<th> 11:30-12:25 </th> 
+	<th> 12:30-1:25 </th> 
+	<th> 1:30-2:25 </th> 
+	<th> 2:30-3:25 </th> 
+	<th> 3:30-4:25 </th> 
+	<th> 4:30-5:25 </th> 
+	<tr/>
 
-### Markdown
+	<tr>
+	<th>Monday</th>
+	<td> </td> 
+   	<td> </td> 
+	<td>AP(XC-14)</td> 
+	<td>AP(XC-12)</td> 
+	<td>II&CT(XC-2)</td> 
+	<td>II&CT(XC-2)</td> 
+	<td>PHYSICS LAB</td> 
+	<td>PHYSICS LAB</td> 
+	<td>PHYSICS LAB</td>
+	</tr>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+	<tr>
+	<th>Tuesday</th>
+	<td>CP(XC-14)</td> 
+   	<td>CP(XC-14)</td> 
+	<td></td> 
+	 <td>CP LAB(OC-LAB-3)</td> 
+	<td>CP LAB(OC-LAB-3)</td> 
+	<td>CP LAB(OC-LAB-3)</td> 
+	<td> </td> 
+	<td> </td> 
+	<td> </td>
+	</tr>
 
-```markdown
-Syntax highlighted code block
+	<tr>
+	<th>Wednesday</th>
+	<td>II&CT LAB(XC-LAB 1)</td> 
+   	<td>II&CT LAB(XC-LAB 1)</td> 
+	<td>II&CT LAB(XC-LAB 1)</td> 
+	 <td>FE(XC-2)</td> 
+	<td>AC&AG(XC-2)</td> 
+	<td></td> 
+	<td></td> 
+	<td></td> 
+	<td></td>
+	</tr>
 
-# Header 1
-## Header 2
-### Header 3
+	<tr>
+	<th>Thursday</th>
+	<td></td> 
+   	<td>AC&AG(XC-2)</td> 
+	<td>AC&AG(XC-2)</td> 
+	 <td>CP(XC-12)</td> 
+	<td>FE(XC-2)</td> 
+	<td>FE(XC-2)</td> 
+	<td></td> 
+	<td></td> 
+	<td></td>
+	</tr>
 
-- Bulleted
-- List
+	<tr>
+	<th>Friday</th>
+	<td></td> 
+   	<td></td> 
+	<td></td> 
+	 <td></td> 
+	<td></td> 
+	<td></td> 
+	<td></td> 
+	<td></td> 
+	<td></td>
+	</tr>
+	
+	
 
-1. Numbered
-2. List
+	</table>
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+	</body>
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ZainH2SO4/Project-2/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+</html>
